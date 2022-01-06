@@ -1,2 +1,2 @@
-# github-action-study
+# github-action-study 1
 Github Action 사용해보기
